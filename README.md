@@ -541,5 +541,5 @@ public class MailController {
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704214105647.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704214241320.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzQ1MjQyNA==,size_16,color_FFFFFF,t_70)
 
 【总结】
-  解决了springboot实现邮件发送功能，写的不多，希望对大家有帮助，如果觉得可以，请点赞鼓励，让我继续创造下去。
+  解决了springboot实现邮件发送功能，写的不多，希望对大家有帮助，这里无法显示图片，如有需要请移步CSDN观看
   [本人CSND链接](https://editor.csdn.net/md/?articleId=107120844)
