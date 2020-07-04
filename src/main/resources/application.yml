@@ -1,0 +1,15 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: admin@qq.com #真实的邮箱
+    password: 授权码
+    properties:
+      from: admin@qq.com #真实的邮箱
+
+  thymeleaf:
+    cache: false
+    prefix: classpath:/static
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 50MB
